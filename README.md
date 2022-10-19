@@ -22,7 +22,7 @@ Installation
 Install with composer, in the root of the Wordpress project run:
 
 ```bash
-composer require dbout/wp-orm
+composer require dbout/wp-orm dev-master
 ```
 
 Basic usage with core Wordpress models 
